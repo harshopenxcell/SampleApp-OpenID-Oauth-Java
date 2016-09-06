@@ -60,7 +60,7 @@ Once the sample app code is on your computer, you can do the following steps to 
 
 ![Alt text](images/Config.png "Configurations")
 * Note: the IPP javascript file should be updated to the latest version such that the URL is
-https//js.appcenter.intuit.com/Content/IA/intuit.ipp.anywhere-XXX.js where "XXX" is replaced by the version number.  The latest version can be found <a href="https://developer.intuit.com/docs/0000_about_intuit_developer/0080_release_notes/intuit_developer_release_notes#/javascript">here</a>.
+https//js.appcenter.intuit.com/Content/IA/intuit.ipp.anywhere-XXX.js where "XXX" is replaced by the version number.  The latest version can be found <a href="https://developer.intuit.com/docs/0100_quickbooks_online/0100_essentials/z0080_release_notes/intuit_developer_release_notes/intuit_developer_release_notes">here</a>.
 
 
 * The Auto Config buttons may be used to update URL's specific to Production and Development tokens that are provided on developer.intuit.com.
@@ -129,5 +129,5 @@ OAuth will return Access Token and Access Secret which will be stored in the HTT
 The following How-To guides related to implementation tasks necessary to produce a production-ready Intuit Partner Platform app (e.g. OAuth, OpenId, etc) are available:
 
 * <a href="https://github.com/IntuitDeveloper/SampleApp-TimeTracking_Invoicing-Java/wiki/OAuth-How-To-Guide-(Java)" target="_blank">OAuth How To Guide (Java)
-* <a href="https://developer.intuit.com/docs/0050_quickbooks_api/0020_authentication_and_authorization/0011_from_the_intuit_app_center" target="_blank">Implementing Single Sign-On
-* <a href="https://developer.intuit.com/docs/0050_quickbooks_api/0020_authentication_and_authorization/connect_from_within_your_app" target="_blank">OAuth Work Flow for Connecting Within App
+* <a href="https://developer.intuit.com/docs/0100_quickbooks_online/0100_essentials/0085_develop_quickbooks_apps/0004_authentication_and_authorization/0011_from_the_intuit_app_center" target="_blank">Implementing Single Sign-On
+* <a href="https://developer.intuit.com/docs/0100_quickbooks_online/0100_essentials/0085_develop_quickbooks_apps/0004_authentication_and_authorization/connect_from_within_your_app" target="_blank">OAuth Work Flow for Connecting Within App
